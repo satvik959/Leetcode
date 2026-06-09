@@ -2,9 +2,9 @@ class Solution:
     def arrayPairSum(self, nums: List[int]) -> int:
         nums.sort()
 
-        total = 0
+        t= 0
 
         for i in range(0, len(nums), 2):
-            total = total + nums[i]
+            t= t+ nums[i] 
 
-        return total
+        return t
