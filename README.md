@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/satvik959/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/satvik959/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0561-array-partition](https://github.com/satvik959/Leetcode/tree/master/0561-array-partition) |
 | [1528-shuffle-string](https://github.com/satvik959/Leetcode/tree/master/1528-shuffle-string) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/satvik959/Leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/satvik959/Leetcode/tree/master/0561-array-partition) |
 ## Sorting
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/satvik959/Leetcode/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/satvik959/Leetcode/tree/master/0344-reverse-string) |
 ## Trie
 |  |
