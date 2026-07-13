@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/satvik959/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/satvik959/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/satvik959/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/satvik959/Leetcode/tree/master/0016-3sum-closest) |
 | [0561-array-partition](https://github.com/satvik959/Leetcode/tree/master/0561-array-partition) |
 | [1528-shuffle-string](https://github.com/satvik959/Leetcode/tree/master/1528-shuffle-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satvik959/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/satvik959/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/satvik959/Leetcode/tree/master/0016-3sum-closest) |
 | [0561-array-partition](https://github.com/satvik959/Leetcode/tree/master/0561-array-partition) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satvik959/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Counting Sort
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/satvik959/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/satvik959/Leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/satvik959/Leetcode/tree/master/0016-3sum-closest) |
 | [0344-reverse-string](https://github.com/satvik959/Leetcode/tree/master/0344-reverse-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satvik959/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Trie
