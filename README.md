@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/satvik959/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satvik959/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/satvik959/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/satvik959/Leetcode/tree/master/0066-plus-one) |
 | [0561-array-partition](https://github.com/satvik959/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/satvik959/Leetcode/tree/master/0645-set-mismatch) |
 | [0757-set-intersection-size-at-least-two](https://github.com/satvik959/Leetcode/tree/master/0757-set-intersection-size-at-least-two) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/satvik959/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/satvik959/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/satvik959/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/satvik959/Leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
