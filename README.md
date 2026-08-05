@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satvik959/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/satvik959/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/satvik959/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/satvik959/Leetcode/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/satvik959/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/satvik959/Leetcode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/satvik959/Leetcode/tree/master/0190-reverse-bits) |
 | [0645-set-mismatch](https://github.com/satvik959/Leetcode/tree/master/0645-set-mismatch) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satvik959/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
