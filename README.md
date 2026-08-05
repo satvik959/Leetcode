@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satvik959/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/satvik959/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/satvik959/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/satvik959/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/satvik959/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satvik959/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satvik959/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/satvik959/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satvik959/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/satvik959/Leetcode/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/satvik959/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/satvik959/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/satvik959/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/satvik959/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/satvik959/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/satvik959/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/satvik959/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/satvik959/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/satvik959/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
