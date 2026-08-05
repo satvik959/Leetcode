@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/satvik959/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/satvik959/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/satvik959/Leetcode/tree/master/0140-word-break-ii) |
+| [0171-excel-sheet-column-number](https://github.com/satvik959/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/satvik959/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satvik959/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1528-shuffle-string](https://github.com/satvik959/Leetcode/tree/master/1528-shuffle-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/satvik959/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/satvik959/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/satvik959/Leetcode/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/satvik959/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Two Pointers
 |  |
 | ------- |
