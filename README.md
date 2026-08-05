@@ -225,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satvik959/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/satvik959/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/satvik959/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
