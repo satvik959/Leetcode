@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/satvik959/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/satvik959/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/satvik959/Leetcode/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/satvik959/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0645-set-mismatch](https://github.com/satvik959/Leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/satvik959/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/satvik959/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/satvik959/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/satvik959/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/satvik959/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0138-copy-list-with-random-pointer](https://github.com/satvik959/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/satvik959/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
