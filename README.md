@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satvik959/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satvik959/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/satvik959/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/satvik959/Leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/satvik959/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/satvik959/Leetcode/tree/master/0645-set-mismatch) |
 | [0757-set-intersection-size-at-least-two](https://github.com/satvik959/Leetcode/tree/master/0757-set-intersection-size-at-least-two) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satvik959/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satvik959/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/satvik959/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/satvik959/Leetcode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/satvik959/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/satvik959/Leetcode/tree/master/0645-set-mismatch) |
 | [0757-set-intersection-size-at-least-two](https://github.com/satvik959/Leetcode/tree/master/0757-set-intersection-size-at-least-two) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/satvik959/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/satvik959/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/satvik959/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/satvik959/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/satvik959/Leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/satvik959/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/satvik959/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/satvik959/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/satvik959/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/satvik959/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/satvik959/Leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/satvik959/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/satvik959/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/satvik959/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/satvik959/Leetcode/tree/master/0268-missing-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satvik959/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
 |  |
@@ -223,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/satvik959/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/satvik959/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/satvik959/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/satvik959/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/satvik959/Leetcode/tree/master/0645-set-mismatch) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satvik959/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
