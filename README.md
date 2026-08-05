@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/satvik959/Leetcode/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/satvik959/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/satvik959/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/satvik959/Leetcode/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -355,4 +356,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/satvik959/Leetcode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/satvik959/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/satvik959/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
