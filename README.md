@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satvik959/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/satvik959/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/satvik959/Leetcode/tree/master/0038-count-and-say) |
+| [0065-valid-number](https://github.com/satvik959/Leetcode/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/satvik959/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/satvik959/Leetcode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/satvik959/Leetcode/tree/master/0139-word-break) |
