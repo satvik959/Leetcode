@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/satvik959/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/satvik959/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satvik959/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0940-distinct-subsequences-ii](https://github.com/satvik959/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1528-shuffle-string](https://github.com/satvik959/Leetcode/tree/master/1528-shuffle-string) |
 ## Sliding Window
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/satvik959/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/satvik959/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/satvik959/Leetcode/tree/master/0140-word-break-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/satvik959/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/satvik959/Leetcode/tree/master/1872-stone-game-viii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satvik959/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
