@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-set-intersection-size-at-least-two](https://github.com/satvik959/Leetcode/tree/master/0757-set-intersection-size-at-least-two) |
 | [0835-image-overlap](https://github.com/satvik959/Leetcode/tree/master/0835-image-overlap) |
 | [1331-rank-transform-of-an-array](https://github.com/satvik959/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/satvik959/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1528-shuffle-string](https://github.com/satvik959/Leetcode/tree/master/1528-shuffle-string) |
 | [1872-stone-game-viii](https://github.com/satvik959/Leetcode/tree/master/1872-stone-game-viii) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/satvik959/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satvik959/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/satvik959/Leetcode/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/satvik959/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/satvik959/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/satvik959/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/satvik959/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/satvik959/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satvik959/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/satvik959/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/satvik959/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satvik959/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/satvik959/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/satvik959/Leetcode/tree/master/0278-first-bad-version) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/satvik959/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satvik959/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/satvik959/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satvik959/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/satvik959/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/satvik959/Leetcode/tree/master/0140-word-break-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/satvik959/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/satvik959/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/satvik959/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/satvik959/Leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/satvik959/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
