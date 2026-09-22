@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/satvik959/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/satvik959/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/satvik959/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/satvik959/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satvik959/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3637-trionic-array-i](https://github.com/satvik959/Leetcode/tree/master/3637-trionic-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satvik959/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/satvik959/Leetcode/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/satvik959/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3524-find-x-value-of-array-i](https://github.com/satvik959/Leetcode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/satvik959/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/satvik959/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/satvik959/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satvik959/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -495,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/satvik959/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/satvik959/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/satvik959/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
