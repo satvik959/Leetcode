@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/satvik959/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/satvik959/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/satvik959/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/satvik959/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/satvik959/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/satvik959/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/satvik959/Leetcode/tree/master/0258-add-digits) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/satvik959/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/satvik959/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/satvik959/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/satvik959/Leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/satvik959/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/satvik959/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satvik959/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/satvik959/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/satvik959/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/satvik959/Leetcode/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
