@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/satvik959/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/satvik959/Leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/satvik959/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/satvik959/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satvik959/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/satvik959/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satvik959/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/satvik959/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/satvik959/Leetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/satvik959/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/satvik959/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satvik959/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/satvik959/Leetcode/tree/master/0242-valid-anagram) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satvik959/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/satvik959/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satvik959/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/satvik959/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/satvik959/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/satvik959/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/satvik959/Leetcode/tree/master/0234-palindrome-linked-list) |
