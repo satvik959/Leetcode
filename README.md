@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satvik959/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satvik959/Leetcode/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/satvik959/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satvik959/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/satvik959/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/satvik959/Leetcode/tree/master/0645-set-mismatch) |
 | [0757-set-intersection-size-at-least-two](https://github.com/satvik959/Leetcode/tree/master/0757-set-intersection-size-at-least-two) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/satvik959/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/satvik959/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/satvik959/Leetcode/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satvik959/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/satvik959/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/satvik959/Leetcode/tree/master/0645-set-mismatch) |
 | [0757-set-intersection-size-at-least-two](https://github.com/satvik959/Leetcode/tree/master/0757-set-intersection-size-at-least-two) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/satvik959/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/satvik959/Leetcode/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/satvik959/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satvik959/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/satvik959/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/satvik959/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/satvik959/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
